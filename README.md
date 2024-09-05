@@ -23,7 +23,7 @@ After providing this information, please ask me a thought-provoking question abo
 
 ---
 ### Prompt3
-I'm about to start working on a X project, which involves Y. My current skill level in **Tech_Stack is beginner/intermediate/advance. Please provide:
+I'm about to start working on a X project, which involves Y. My current skill level in Tech_Stack is beginner/intermediate/advance. Please provide:
 
 1. A high-level overview of the main components or features this project should have.
 2. A suggested project structure, including main files or modules I'll need to create.
