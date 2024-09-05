@@ -1,5 +1,5 @@
-###Prompt1
-**I want to learn X(Any Tech Stack). Please create a comprehensive study plan following the 80-20 rule, focusing on the core 20% of concepts that will allow me to start building projects. The plan should be structured week by week for Y weeks, with each week covering specific topics.
+Prompt1
+I want to learn X(Any Tech Stack). Please create a comprehensive study plan following the 80-20 rule, focusing on the core 20% of concepts that will allow me to start building projects. The plan should be structured week by week for Y weeks, with each week covering specific topics.
 
 After the Y-week core learning period, please suggest 5 projects of increasing difficulty (from beginner to advanced) that will help me apply and expand my knowledge of python. For each project, provide a brief description and list the key concepts it will help reinforce.
 
@@ -7,8 +7,8 @@ Please ensure the plan is detailed enough for a beginner to follow, but also cha
 
 ---
 
-###Prompt2
-**Suppose You are learning Y Topic from X techstack then the prompt should be:
+Prompt2
+Suppose You are learning Y Topic from X techstack then the prompt should be:
 I'm learning about Conditional statements in Python. Please provide:
 
 1. A concise explanation of Conditional statements, including its purpose and when it's commonly used.
@@ -22,8 +22,8 @@ Please don't provide solutions, only the problem statements.
 After providing this information, please ask me a thought-provoking question about Conditional statements that will encourage me to think deeper about its applications or implications.
 
 ---
-###Prompt3
-**I'm about to start working on a X project, which involves Y. My current skill level in **Tech_Stack is beginner/intermediate/advance. Please provide:
+Prompt3
+I'm about to start working on a X project, which involves Y. My current skill level in **Tech_Stack is beginner/intermediate/advance. Please provide:
 
 1. A high-level overview of the main components or features this project should have.
 2. A suggested project structure, including main files or modules I'll need to create.
